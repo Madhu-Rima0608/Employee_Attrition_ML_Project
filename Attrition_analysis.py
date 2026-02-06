@@ -74,11 +74,3 @@ feature_importance = pd.Series(
 feature_importance.plot(kind='barh')
 plt.title("Top Factors Influencing Attrition")
 plt.show()
-
-
-
-
-
-
-
-
